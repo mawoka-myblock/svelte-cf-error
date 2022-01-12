@@ -1,0 +1,11 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+.vercel_build_output/
+.vscode/
+workers-site/
+dist/
+strapi/
+.pnpm-debug.log
